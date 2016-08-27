@@ -11,3 +11,5 @@ xiaoming add
 function xiaoming(){
 	xiaomingadd;
 }
+
+小明
