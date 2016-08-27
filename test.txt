@@ -2,12 +2,12 @@
 
 22222
 
-
 33333
-
 
 myadd
 
-
 xiaoming add
 
+function xiaoming(){
+	xiaomingadd;
+}
