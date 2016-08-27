@@ -11,3 +11,8 @@ myadd
 
 xiaoming add
 
+function myadd(){
+	hehe
+
+}
+
